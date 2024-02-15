@@ -12,9 +12,9 @@ public:
         int n =nums.size();
         long long total=sumofall(nums);
         sort(nums.begin(),nums.end());
-        for(int i=n-1;i>=0;i--){
+        for(int i=n-1;i>=2;i--){
             if((total-nums[i])>nums[i]) return total;
-            total-=nums[i];
+            total-=nums[i];   //for other possiblity when secont last check
         }
         return -1;
     }
