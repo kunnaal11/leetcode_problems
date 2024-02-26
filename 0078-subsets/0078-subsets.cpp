@@ -2,7 +2,7 @@ class Solution {
 private:
     void solve(vector<int>& nums,int i, vector<int>output, vector<vector<int>>&ans){
         //base
-        if(i>=nums.size()){
+        if(i>=nums.size()){ //this conditon say that inn last i comes at end i=n so this will be base case;
             ans.push_back(output);
             return ;
         }
