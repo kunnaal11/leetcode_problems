@@ -22,5 +22,6 @@ public:
              }
         }
         return maxi;
-    }
+    }// this is O(nlogn) tc 
+    //we have to do this with O(n) hint used hashtabe
 };
