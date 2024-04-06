@@ -11,7 +11,7 @@ public:
                 if(cnt==0)
                     s[i]='#';
                 else // cnt not eua to 0
-                    cnt--;;
+                    cnt--;
             }
             else   // a -z ele
                 continue;
@@ -25,7 +25,7 @@ public:
                 if(cnt==0)
                     s[i]='#';
                 else // cnt not eua to 0
-                    cnt--;;
+                    cnt--;
             }
             else   // a -z ele
                 continue;
