@@ -1,10 +1,11 @@
 class Solution {
 public:
     bool check(string& str){
-         char first = str[0];
-        char last = str[str.size() - 1];
-        return (first == 'a' || first == 'e' || first == 'i' || first == 'o' || first == 'u') &&
-               (last == 'a' || last == 'e' || last == 'i' || last == 'o' || last == 'u');
+         char f = str[0];
+        char l = str[str.size() - 1];
+        if( (f=='a' || f=='e' || f=='i' || f=='o' || f=='u') && (l=='a' || l=='e' || l=='i' || l=='o' || l=='u') )
+        return true;
+        else return false;
     }
     
 public:
@@ -18,9 +19,13 @@ public:
             }                              //here store and directily incrementing val based on prev totalcounts
             else{ presum[i+1]=presum[i]; }
         }
+
+
         vector<int>ans;
-        for(auto it:queries){
-            int cnt=presum[it[1]+1]-presum[it[0]];
+        for(auto subquerie : queries){
+            int l=subquerie[0];   //here chose subquerie ind 0&1 bcoz each queries has only tow ind start and end
+            int r=subquerie[1];
+            int cnt=presum[r+1]-presum[l];  //just subracting countat that place in presum array,no neet too count all count one by on directly take difffrence of r-l
             ans.push_back(cnt);
         }
        return ans;
