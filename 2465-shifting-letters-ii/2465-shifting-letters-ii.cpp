@@ -5,10 +5,10 @@ public:
         vector<int> arr(n + 1, 0); //array to store net shifts
 
        // Build the difference array
-        for (const auto& shift : shifts) {
-            int L = shift[0];
-            int R = shift[1];
-            int dir = shift[2];
+        for (int i = 0; i < shifts.size(); i++) {  // Loop through shifts
+              int L = shifts[i][0];
+              int R = shifts[i][1];
+              int dir = shifts[i][2];
 
             if (dir == 1) {
                 arr[L] += 1;
