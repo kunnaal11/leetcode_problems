@@ -6,6 +6,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kunnaal11/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunnaal11/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kunnaal11/leetcode_problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -13,6 +14,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kunnaal11/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunnaal11/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/kunnaal11/leetcode_problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/2465-shifting-letters-ii) |
@@ -20,6 +22,7 @@ My leetcode Problems -Solved
 ## Array
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kunnaal11/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/kunnaal11/leetcode_problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kunnaal11/leetcode_problems/tree/master/2691-count-vowel-strings-in-ranges) |
