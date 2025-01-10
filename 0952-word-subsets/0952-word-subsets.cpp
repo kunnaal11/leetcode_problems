@@ -30,12 +30,5 @@ public:
         return ans;
     }
 
-private:
-    bool isUniversal(const vector<int>& wordFreq, const vector<int>& maxFreq) {
-        for (int i = 0; i < 26; ++i) {
-            if (wordFreq[i] < maxFreq[i])
-                return false;
-        }
-        return true;
-    }
+
 };
