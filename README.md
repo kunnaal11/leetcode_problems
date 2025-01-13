@@ -29,6 +29,7 @@ My leetcode Problems -Solved
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kunnaal11/leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -40,6 +41,7 @@ My leetcode Problems -Solved
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunnaal11/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -74,10 +76,15 @@ My leetcode Problems -Solved
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kunnaal11/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunnaal11/leetcode_problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
