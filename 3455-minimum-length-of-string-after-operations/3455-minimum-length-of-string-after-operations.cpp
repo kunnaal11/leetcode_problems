@@ -7,7 +7,7 @@ public:
              mp[it]++;
         }  
         for(auto it:mp){
-            if(it.second==0) continue;
+            
             if(it.second&1) cnt+=1;
             else cnt+=2;
         }    
