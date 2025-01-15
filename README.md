@@ -52,6 +52,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunnaal11/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/kunnaal11/leetcode_problems/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kunnaal11/leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -76,6 +77,7 @@ My leetcode Problems -Solved
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunnaal11/leetcode_problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/kunnaal11/leetcode_problems/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
