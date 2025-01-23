@@ -16,7 +16,7 @@ public:
         }
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1 && (row[i] > 1 || col[j] > 1) ) {
+                if (grid[i][j] == 1 && (row[i] >=2 || col[j] >=2 ) ) {
                     cnt++;
                 }
             }
