@@ -31,6 +31,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
@@ -106,6 +107,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 ## Brainteaser
 |  |
@@ -160,4 +162,5 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
