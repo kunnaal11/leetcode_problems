@@ -7,7 +7,7 @@ public:
         sort(arr.begin(), arr.end());
 
         for (int i = 0; i < n; i++) {
-            if (i > 0 && arr[i] == arr[i - 1])
+            if (i > 0 && arr[i] == arr[i - 1])   // Avoid duplicates for the first number
                 continue;
 
             int j = i + 1;                     //i-fix twopointers(j,k)
@@ -23,7 +23,7 @@ public:
                     j++;
                     k--;
                     ans.push_back(temp);
-
+                                                                     // Avoid duplicates for the second and third numbers
                     while (j < k && arr[j] == arr[j - 1] ) {        //to avoid same process for same j value,it will shift to next ele other than j
                         j++;
                     }
