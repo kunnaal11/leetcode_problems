@@ -30,6 +30,7 @@ My leetcode Problems -Solved
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/kunnaal11/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
@@ -149,4 +150,8 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/kunnaal11/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
