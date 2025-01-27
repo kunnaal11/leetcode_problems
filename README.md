@@ -30,6 +30,7 @@ My leetcode Problems -Solved
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
@@ -104,6 +105,7 @@ My leetcode Problems -Solved
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 ## Brainteaser
 |  |
@@ -154,4 +156,8 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
