@@ -36,6 +36,7 @@ My leetcode Problems -Solved
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0854-making-a-large-island](https://github.com/kunnaal11/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
+| [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [1396-count-servers-that-communicate](https://github.com/kunnaal11/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
@@ -92,6 +93,7 @@ My leetcode Problems -Solved
 ## Greedy
 |  |
 | ------- |
+| [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunnaal11/leetcode_problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/kunnaal11/leetcode_problems/tree/master/2509-minimize-xor) |
@@ -112,6 +114,7 @@ My leetcode Problems -Solved
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 ## Brainteaser
 |  |
 | ------- |
@@ -185,4 +188,5 @@ My leetcode Problems -Solved
 | ------- |
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
+| [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 <!---LeetCode Topics End-->
