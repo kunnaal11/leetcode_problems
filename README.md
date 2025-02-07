@@ -60,6 +60,7 @@ My leetcode Problems -Solved
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunnaal11/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My leetcode Problems -Solved
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunnaal11/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kunnaal11/leetcode_problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kunnaal11/leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunnaal11/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kunnaal11/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -202,4 +204,8 @@ My leetcode Problems -Solved
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunnaal11/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
