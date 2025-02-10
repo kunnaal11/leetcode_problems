@@ -7,7 +7,8 @@ public:
                 if (!st.empty()) {
                     st.pop();                          // Remove the last non-digit character
                 }
-            } else {
+             } 
+            else {
                 st.push(ch);                           // Push only non-digit characters
             }
         }
