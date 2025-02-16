@@ -1,24 +1,25 @@
 class Solution {
+public: 
+    bool check(int sq, int Csum, int target) {
+ 
+        if(sq==0){                                       //base conditition
+            return (Csum==target)?true:false;
+        }
+       
+        return ( check(sq/10,Csum+sq%10,target) ||
+                 check(sq/100,Csum+sq%100,target) ||
+                 check(sq/1000,Csum+sq%1000,target) ||
+                 check(sq/10000,Csum+sq%10000,target) );   //this case of last test case n=1000 extra one
+    }
 public:
     int punishmentNumber(int n) {
-        int sum = 0;
+        int ans = 0;
         for (int i = 1; i <= n; i++) {
-            if (canPartition(to_string(i * i), 0, i)) {
-                sum += (i * i);
+            int sq=i*i;
+            if (check(sq,0,i)) {
+                ans += (i * i);
             }
         }
-        return sum;
-    }
-
-    bool canPartition(string num, int index, int target) {
-        if (index == num.length()) return target == 0;
-
-        int sum = 0;
-        for (int i = index; i < num.length(); i++) {
-            sum = sum * 10 + (num[i] - '0');
-            if (sum > target) break;
-            if (canPartition(num, i + 1, target - sum)) return true;
-        }
-        return false;
+        return ans;
     }
 };
