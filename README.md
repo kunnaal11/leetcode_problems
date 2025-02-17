@@ -6,6 +6,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -74,6 +75,7 @@ My leetcode Problems -Solved
 | ------- |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunnaal11/leetcode_problems/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kunnaal11/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -123,6 +125,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunnaal11/leetcode_problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kunnaal11/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -251,6 +254,7 @@ My leetcode Problems -Solved
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kunnaal11/leetcode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kunnaal11/leetcode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
