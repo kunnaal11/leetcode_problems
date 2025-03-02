@@ -18,10 +18,14 @@ public:
                 mp[ind]=val;
             }
         }
-        for(auto it:mp){
-            ans.push_back({it.first,it.second});
+        for(int i=1;i<=mp.size();i++){
+            if(mp[i]){
+                int vall=mp[i];
+                ans.push_back({i,vall});
+            }
+            
         }
-        sort(begin(ans),end(ans));
+       // sort(begin(ans),end(ans));
         return ans;
     }
 };
