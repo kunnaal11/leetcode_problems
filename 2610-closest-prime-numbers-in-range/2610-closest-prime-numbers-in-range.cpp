@@ -6,11 +6,12 @@ public:
         isPrime[0] = false;
         isPrime[1] = false;
        
-        for (int num = 2; num * num <= right; num++)
+        for (int i = 2; i * i <= right; i++)
         {
-            if (isPrime[num])
+            if (isPrime[i])
             {
-                for (int j = num * num; j <= right; j = j + num) isPrime[j] = false;
+                for (int j = 2; i*j <= right;j++) 
+                isPrime[i*j] = false;
             }
         }
     
