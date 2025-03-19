@@ -96,6 +96,7 @@ My leetcode Problems -Solved
 | [3429-special-array-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunnaal11/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3483-alternating-groups-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -162,6 +163,7 @@ My leetcode Problems -Solved
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunnaal11/leetcode_problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kunnaal11/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/kunnaal11/leetcode_problems/tree/master/2509-minimize-xor) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Counting
 |  |
 | ------- |
@@ -272,6 +274,7 @@ My leetcode Problems -Solved
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunnaal11/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kunnaal11/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Two Pointers
 |  |
 | ------- |
