@@ -32,6 +32,7 @@ My leetcode Problems -Solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kunnaal11/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kunnaal11/leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kunnaal11/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -51,6 +52,7 @@ My leetcode Problems -Solved
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/kunnaal11/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0854-making-a-large-island](https://github.com/kunnaal11/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunnaal11/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
