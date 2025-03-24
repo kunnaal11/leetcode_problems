@@ -99,6 +99,7 @@ My leetcode Problems -Solved
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kunnaal11/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/kunnaal11/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunnaal11/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -199,6 +200,7 @@ My leetcode Problems -Solved
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/kunnaal11/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 ## Brainteaser
 |  |
 | ------- |
