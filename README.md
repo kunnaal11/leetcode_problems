@@ -49,6 +49,7 @@ My leetcode Problems -Solved
 | ------- |
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/kunnaal11/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
@@ -197,6 +198,7 @@ My leetcode Problems -Solved
 | ------- |
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/kunnaal11/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
