@@ -88,6 +88,7 @@ My leetcode Problems -Solved
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kunnaal11/leetcode_problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kunnaal11/leetcode_problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kunnaal11/leetcode_problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/kunnaal11/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kunnaal11/leetcode_problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -207,6 +208,7 @@ My leetcode Problems -Solved
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kunnaal11/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/kunnaal11/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kunnaal11/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -227,6 +229,7 @@ My leetcode Problems -Solved
 | [1876-map-of-highest-peak](https://github.com/kunnaal11/leetcode_problems/tree/master/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kunnaal11/leetcode_problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kunnaal11/leetcode_problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/kunnaal11/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -248,6 +251,7 @@ My leetcode Problems -Solved
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/kunnaal11/leetcode_problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -258,6 +262,7 @@ My leetcode Problems -Solved
 | [1876-map-of-highest-peak](https://github.com/kunnaal11/leetcode_problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/kunnaal11/leetcode_problems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kunnaal11/leetcode_problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunnaal11/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -286,6 +291,7 @@ My leetcode Problems -Solved
 | [0854-making-a-large-island](https://github.com/kunnaal11/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/kunnaal11/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kunnaal11/leetcode_problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/kunnaal11/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kunnaal11/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -315,6 +321,7 @@ My leetcode Problems -Solved
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunnaal11/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunnaal11/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
