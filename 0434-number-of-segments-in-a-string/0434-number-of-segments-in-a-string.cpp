@@ -1,9 +1,7 @@
 class Solution {
 public:
     int countSegments(string s) {
-        if(s.size()==0){
-            return 0;
-        }
+        
         int cnt=0;
         bool flag=false;
         
