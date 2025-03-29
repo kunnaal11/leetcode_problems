@@ -5,6 +5,7 @@ My leetcode Problems -Solved
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunnaal11/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
@@ -326,6 +327,7 @@ My leetcode Problems -Solved
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kunnaal11/leetcode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunnaal11/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
@@ -345,6 +347,7 @@ My leetcode Problems -Solved
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kunnaal11/leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kunnaal11/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kunnaal11/leetcode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
