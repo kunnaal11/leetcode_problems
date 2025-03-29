@@ -5,6 +5,7 @@ My leetcode Problems -Solved
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunnaal11/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
@@ -161,6 +162,7 @@ My leetcode Problems -Solved
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunnaal11/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
