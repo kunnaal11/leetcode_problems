@@ -6,6 +6,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunnaal11/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
