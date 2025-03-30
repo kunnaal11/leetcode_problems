@@ -8,6 +8,7 @@ My leetcode Problems -Solved
 | [0014-longest-common-prefix](https://github.com/kunnaal11/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunnaal11/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
@@ -118,6 +119,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunnaal11/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunnaal11/leetcode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
@@ -176,6 +178,7 @@ My leetcode Problems -Solved
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -325,6 +328,7 @@ My leetcode Problems -Solved
 | ------- |
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
+| [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunnaal11/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
