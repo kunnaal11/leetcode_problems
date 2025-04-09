@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minOperations(vector<int>& nums, int k) {
+    int minOperations(vector<int>& nums, int k) {    
         sort(nums.begin(),nums.end());
 
         if(nums[0]<k) return -1;
@@ -17,3 +17,4 @@ public:
         return cnt++;
     }
 };
+//here,  no of distinct no > k == no of operations 
