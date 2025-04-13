@@ -61,6 +61,7 @@ My leetcode Problems -Solved
 | [0238-product-of-array-except-self](https://github.com/kunnaal11/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/kunnaal11/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0792-binary-search](https://github.com/kunnaal11/leetcode_problems/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/kunnaal11/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunnaal11/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
@@ -447,6 +448,7 @@ My leetcode Problems -Solved
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/kunnaal11/leetcode_problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kunnaal11/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/kunnaal11/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
