@@ -54,6 +54,7 @@ My leetcode Problems -Solved
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kunnaal11/leetcode_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/kunnaal11/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kunnaal11/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/0152-maximum-product-subarray) |
@@ -448,6 +449,7 @@ My leetcode Problems -Solved
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kunnaal11/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/kunnaal11/leetcode_problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kunnaal11/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/kunnaal11/leetcode_problems/tree/master/2690-house-robber-iv) |
