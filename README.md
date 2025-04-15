@@ -54,6 +54,7 @@ My leetcode Problems -Solved
 | [0015-3sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kunnaal11/leetcode_problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunnaal11/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kunnaal11/leetcode_problems/tree/master/0056-merge-intervals) |
@@ -451,6 +452,7 @@ My leetcode Problems -Solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunnaal11/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/kunnaal11/leetcode_problems/tree/master/0792-binary-search) |
