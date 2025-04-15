@@ -58,6 +58,7 @@ My leetcode Problems -Solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunnaal11/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kunnaal11/leetcode_problems/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
@@ -455,6 +456,7 @@ My leetcode Problems -Solved
 | [0033-search-in-rotated-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunnaal11/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/kunnaal11/leetcode_problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kunnaal11/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/kunnaal11/leetcode_problems/tree/master/2690-house-robber-iv) |
