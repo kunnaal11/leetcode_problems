@@ -7,6 +7,7 @@ My leetcode Problems -Solved
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunnaal11/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kunnaal11/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
@@ -141,6 +142,7 @@ My leetcode Problems -Solved
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kunnaal11/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunnaal11/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunnaal11/leetcode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -244,6 +246,7 @@ My leetcode Problems -Solved
 | [0018-4sum](https://github.com/kunnaal11/leetcode_problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/kunnaal11/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kunnaal11/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/kunnaal11/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
