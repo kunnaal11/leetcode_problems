@@ -10,6 +10,7 @@ My leetcode Problems -Solved
 | [0242-valid-anagram](https://github.com/kunnaal11/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kunnaal11/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
@@ -143,6 +144,7 @@ My leetcode Problems -Solved
 | [0205-isomorphic-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kunnaal11/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/kunnaal11/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunnaal11/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kunnaal11/leetcode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -223,6 +225,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/kunnaal11/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kunnaal11/leetcode_problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kunnaal11/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
@@ -248,6 +251,7 @@ My leetcode Problems -Solved
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kunnaal11/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/kunnaal11/leetcode_problems/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/kunnaal11/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0917-boats-to-save-people](https://github.com/kunnaal11/leetcode_problems/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/kunnaal11/leetcode_problems/tree/master/0985-bag-of-tokens) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -295,6 +299,7 @@ My leetcode Problems -Solved
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kunnaal11/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/kunnaal11/leetcode_problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -497,4 +502,8 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/kunnaal11/leetcode_problems/tree/master/2050-count-good-numbers) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kunnaal11/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
