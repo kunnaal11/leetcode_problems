@@ -6,6 +6,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunnaal11/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
@@ -137,6 +138,7 @@ My leetcode Problems -Solved
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kunnaal11/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
