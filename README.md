@@ -137,6 +137,7 @@ My leetcode Problems -Solved
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3483-alternating-groups-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3483-alternating-groups-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kunnaal11/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kunnaal11/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -311,6 +312,7 @@ My leetcode Problems -Solved
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kunnaal11/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/kunnaal11/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -398,6 +400,7 @@ My leetcode Problems -Solved
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunnaal11/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -429,6 +432,7 @@ My leetcode Problems -Solved
 | [2998-count-symmetric-integers](https://github.com/kunnaal11/leetcode_problems/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kunnaal11/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunnaal11/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
 |  |
 | ------- |
