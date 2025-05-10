@@ -126,6 +126,7 @@ My leetcode Problems -Solved
 | [3001-apply-operations-to-maximize-score](https://github.com/kunnaal11/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kunnaal11/leetcode_problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kunnaal11/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunnaal11/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -227,6 +228,7 @@ My leetcode Problems -Solved
 | [2509-minimize-xor](https://github.com/kunnaal11/leetcode_problems/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/kunnaal11/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kunnaal11/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kunnaal11/leetcode_problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Counting
 |  |
