@@ -26,11 +26,10 @@ public:
         for(auto it:digits){
             mp1[it]++;
         }
-        for(int i=100;i<=999;i++){
-            if(i%2==0){            //checking for even
+        for(int i=100;i<999;i+=2){
                 if(check(i,mp1)){
                  ans.push_back(i);
-                }
+                
             }
         }
         return ans;
