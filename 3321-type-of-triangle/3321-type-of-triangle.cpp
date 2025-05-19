@@ -3,7 +3,7 @@ public:
     string triangleType(vector<int>& nums) {
         int maxEle=nums[0];
         int Tsum=nums[0];
-        bool check=true;
+        
         for(int i=1;i<3;i++){
             Tsum+=nums[i];
             if(nums[i]>maxEle){
