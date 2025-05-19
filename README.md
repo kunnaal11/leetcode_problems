@@ -136,6 +136,7 @@ My leetcode Problems -Solved
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kunnaal11/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunnaal11/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kunnaal11/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kunnaal11/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -279,6 +280,7 @@ My leetcode Problems -Solved
 | [2681-put-marbles-in-bags](https://github.com/kunnaal11/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kunnaal11/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kunnaal11/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/kunnaal11/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kunnaal11/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Brainteaser
@@ -448,6 +450,7 @@ My leetcode Problems -Solved
 | [2998-count-symmetric-integers](https://github.com/kunnaal11/leetcode_problems/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kunnaal11/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunnaal11/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
 |  |
