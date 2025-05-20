@@ -55,6 +55,7 @@ My leetcode Problems -Solved
 | [2465-shifting-letters-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kunnaal11/leetcode_problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ My leetcode Problems -Solved
 | [3483-alternating-groups-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kunnaal11/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kunnaal11/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kunnaal11/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
