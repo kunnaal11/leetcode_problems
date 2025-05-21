@@ -67,6 +67,7 @@ My leetcode Problems -Solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunnaal11/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunnaal11/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kunnaal11/leetcode_problems/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/kunnaal11/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunnaal11/leetcode_problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kunnaal11/leetcode_problems/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ My leetcode Problems -Solved
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kunnaal11/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kunnaal11/leetcode_problems/tree/master/0242-valid-anagram) |
@@ -333,6 +335,7 @@ My leetcode Problems -Solved
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kunnaal11/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/kunnaal11/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/kunnaal11/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
