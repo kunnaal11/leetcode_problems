@@ -43,6 +43,7 @@ My leetcode Problems -Solved
 | [3447-clear-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kunnaal11/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,6 +200,7 @@ My leetcode Problems -Solved
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kunnaal11/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kunnaal11/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,6 +265,7 @@ My leetcode Problems -Solved
 | [2308-divide-array-into-equal-pairs](https://github.com/kunnaal11/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/kunnaal11/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kunnaal11/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
