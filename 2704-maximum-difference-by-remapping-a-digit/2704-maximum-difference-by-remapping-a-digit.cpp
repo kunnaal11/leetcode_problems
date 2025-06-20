@@ -1,39 +1,35 @@
 class Solution {
 public:
     int minMaxDifference(int num) {
-        string s = to_string(num);
-        string sMax = s, sMin = s;
-
-        // Get max version: replace first digit that is not '9' with '9'
-        char toReplaceMax = '\0';
-        for (char c : s) {
-            if (c != '9') {
-                toReplaceMax = c;
+        string str = to_string(num);
+        string max = "";
+        string min = "";
+        int n = str.size();
+        char ele = ' ';
+        
+        for(int i = 0; i < n; i++){
+            if(str[i] != '9'){
+                ele = str[i];
                 break;
             }
         }
-        if (toReplaceMax != '\0') {
-            for (char &c : sMax) {
-                if (c == toReplaceMax) c = '9';
+        for(int i = 0; i < n; i++){
+            if(ele == str[i]){
+                max += '9';
+            }
+            else{
+                max += str[i];
             }
         }
-
-        // Get min version: replace first digit that is not '0' with '0'
-        char toReplaceMin = '\0';
-        for (char c : s) {
-            if (c != '0') {
-                toReplaceMin = c;
-                break;
+        for(int i = 0; i < n; i++){
+            if(str[0] == str[i]){
+                min += '0';
+            }
+            else{
+                min += str[i];
             }
         }
-        if (toReplaceMin != '\0') {
-            for (char &c : sMin) {
-                if (c == toReplaceMin) c = '0';
-            }
-        }
-
-        int maxNum = stoi(sMax);
-        int minNum = stoi(sMin);
-        return maxNum - minNum;
+        
+        return stoi(max) - stoi(min);
     }
 };
