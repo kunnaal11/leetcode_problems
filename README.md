@@ -16,6 +16,7 @@ My leetcode Problems -Solved
 | [0768-partition-labels](https://github.com/kunnaal11/leetcode_problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/kunnaal11/leetcode_problems/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/kunnaal11/leetcode_problems/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/kunnaal11/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kunnaal11/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kunnaal11/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kunnaal11/leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -277,6 +278,7 @@ My leetcode Problems -Solved
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/kunnaal11/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kunnaal11/leetcode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kunnaal11/leetcode_problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kunnaal11/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
