@@ -98,6 +98,7 @@ My leetcode Problems -Solved
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kunnaal11/leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kunnaal11/leetcode_problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kunnaal11/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/kunnaal11/leetcode_problems/tree/master/1656-count-good-triplets) |
@@ -188,6 +189,7 @@ My leetcode Problems -Solved
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kunnaal11/leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/kunnaal11/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kunnaal11/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kunnaal11/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kunnaal11/leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -272,6 +274,7 @@ My leetcode Problems -Solved
 | [1364-tuple-with-same-product](https://github.com/kunnaal11/leetcode_problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kunnaal11/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kunnaal11/leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kunnaal11/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kunnaal11/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kunnaal11/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kunnaal11/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
