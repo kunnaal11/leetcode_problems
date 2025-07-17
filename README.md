@@ -43,6 +43,7 @@ My leetcode Problems -Solved
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/kunnaal11/leetcode_problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3396-valid-word](https://github.com/kunnaal11/leetcode_problems/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kunnaal11/leetcode_problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
