@@ -172,6 +172,7 @@ My leetcode Problems -Solved
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kunnaal11/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kunnaal11/leetcode_problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kunnaal11/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +458,7 @@ My leetcode Problems -Solved
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kunnaal11/leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kunnaal11/leetcode_problems/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kunnaal11/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -467,6 +469,7 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/kunnaal11/leetcode_problems/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -554,6 +557,7 @@ My leetcode Problems -Solved
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kunnaal11/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/kunnaal11/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -581,4 +585,8 @@ My leetcode Problems -Solved
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kunnaal11/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kunnaal11/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
